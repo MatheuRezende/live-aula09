@@ -98,7 +98,7 @@ Ficaremos felizes em receber sua participação! Se você:
 - Gostaria de colaborar no desenvolvimento
 
 **Por favor, entre em contato:**
-- 📧 **Email:** kathia.dev@gmail.com
+- 📧 **Email:** vinimatheus@gmail.com
 - 💬 **GitHub Issues:** Abra uma issue neste repositório
 - 🔗 **Pull Requests:** Suas contribuições são bem-vindas!
 
